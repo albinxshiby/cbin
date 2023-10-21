@@ -1,1 +1,6 @@
 com.brave.Browser com.github.reds.LogisimEvolution com.microsoft.Edge com.spotify.Client com.usebottles.bottles io.appflowy.AppFlowy io.github.mimbrero.WhatsAppDesktop org.nickvision.tubeconverter org.onlyoffice.desktopeditors com.github.eneshecan.WhatsAppForLinux
+
+
+vscodium-bin brave-bin protonvpn-cli protonvpn
+
+virtualbox obs-studio kdenlive gimp
